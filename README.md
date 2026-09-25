@@ -5,12 +5,12 @@ import java.io.IOException;
 public class GitHubProfileGenerator {
 
     // Configurable User Details
-    private static final String USERNAME = "your-github-username";
-    private static final String FULL_NAME = "Your Name";
+    private static final String USERNAME = "AMANSINGH_1056";
+    private static final String FULL_NAME = "AMAN SINGH";
     private static final String VERCEL_APP_URL = "your-instance.vercel.app";
-    private static final String LINKEDIN_ID = "YOUR-ID";
-    private static final String INSTAGRAM_HANDLE = "YOUR-HANDLE";
-    private static final String EMAIL = "YOU@EMAIL.COM";
+    private static final String LINKEDIN_ID = "MANAVXSINGH";
+    private static final String INSTAGRAM_HANDLE = "---";
+    private static final String EMAIL = "amanxsingh143@gmail,com";
 
     public static void main(String[] args) {
         String readmeContent = generateReadmeMarkdown();
