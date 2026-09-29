@@ -1,0 +1,22 @@
+### GitHub Profile Summary
+
+GitHub is a platform used by developers and students to **store, manage, share, and collaborate on software projects**. It provides features such as repositories, version control,
+
+issue tracking, documentation, and project collaboration. A GitHub profile showcases a user's projects, contributions, programming skills, and development experience.
+
+### Project Overview
+
+The **Intelligent ICU Patient Monitoring System** is a healthcare-based project developed to monitor patients' vital signs continuously. The project uses sensors and software to collect and process 
+parameters such as **heart rate, blood pressure, body temperature, oxygen saturation (SpO₂), and respiratory rate**.
+
+The system displays patient data in real time and can generate alerts when abnormal readings are detected. The project source code, documentation, and related files can be maintained in a **GitHub repository**, 
+making the project easy to manage, update, and share with others.
+
+### Main Features
+
+* Real-time patient monitoring
+* Measurement of multiple vital signs
+* Automatic detection of abnormal readings
+* Alert/notification system
+* Data visualization and storage
+* Easy project management through GitHub
